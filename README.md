@@ -1,2 +1,2 @@
 # My-Portfolio
-Static
+A Static Website.
